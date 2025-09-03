@@ -1,0 +1,15 @@
+.section-1 {
+  width: 1000px;
+  margin: 30px auto;
+}
+.section-1 h1 {
+  color: green;
+}
+.section-1 button {
+  color: green;
+  font-weight: bold;
+}
+.section-2 {
+  width: 800px;
+  margin: 30px auto;
+}
