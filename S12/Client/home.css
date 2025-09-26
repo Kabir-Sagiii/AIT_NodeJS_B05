@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+.section-1 {
+  width: 1000px;
+  margin: 30px auto;
+}
+.section-1 h1 {
+  color: green;
+}
+.section-1 button {
+  color: green;
+  font-weight: bold;
+}
+.section-2 {
+  width: 800px;
+  margin: 30px auto;
+}
+.nav {
+  height: 80px;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav a {
+  color: yellow;
+  margin-right: 50px;
+  text-decoration: none;
+}
+.nav button {
+  padding: 15px 30px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
